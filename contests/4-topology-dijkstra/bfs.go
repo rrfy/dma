@@ -73,13 +73,3 @@ func main() {
 
 	fmt.Printf("%d\n%s\n", len(path)-1, strings.Trim(fmt.Sprint(path), "[]"))
 }
-
-/*student@DESKTOP-MLRIE5E:~/dma$ python3 run_tests.py contests/4-topology-dijkstra/bfs.go contests/4-topology-dijkstra/bfs_path_tests.zip
-Compiling with command: go build -o /tmp/tmpv1za7sxx/solution_exec /home/student/dma/contests/4-topology-dijkstra/bfs.go
-Extracted tests to /tmp/tmpv1za7sxx/tests
-Test test1 PASSED
-Test test2 PASSED
-Test test3 PASSED
-Test test4 PASSED
-Test test5 PASSED
-All 5/5 tests passed!*/

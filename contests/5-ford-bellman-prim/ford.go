@@ -85,13 +85,3 @@ func main() {
 	}
 
 }
-
-/*student@DESKTOP-MLRIE5E:~/dma$ python3 run_tests.py contests/5-ford-bellman-prim/ford.go contests/5-ford-bellman-prim/ford_bellman_tests.zip
-Compiling with command: go build -o /tmp/tmpnil8ywpb/solution_exec /home/student/dma/contests/5-ford-bellman-prim/ford.go
-Extracted tests to /tmp/tmpnil8ywpb/tests
-Test test1 PASSED
-Test test2 PASSED
-Test test3 PASSED
-Test test4 PASSED
-Test test5 PASSED
-All 5/5 tests passed!*/

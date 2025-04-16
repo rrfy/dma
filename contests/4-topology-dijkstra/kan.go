@@ -58,13 +58,3 @@ func main() {
 		fmt.Println(strings.Trim(fmt.Sprint(result), "[]"))
 	}
 }
-
-/*student@DESKTOP-MLRIE5E:~/dma$ python3 run_tests.py contests/4-topology-dijkstra/kan.go contests/4-topology-dijkstra/kan_tests.zip
-Compiling with command: go build -o /tmp/tmpzy1g6dnr/solution_exec /home/student/dma/contests/4-topology-dijkstra/kan.go
-Extracted tests to /tmp/tmpzy1g6dnr/tests
-Test test1 PASSED
-Test test2 PASSED
-Test test3 PASSED
-Test test4 PASSED
-Test test5 PASSED
-All 5/5 tests passed!*/

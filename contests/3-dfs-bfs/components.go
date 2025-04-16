@@ -54,13 +54,3 @@ func bfs(adj [][]int, visited []bool, start int) {
 		}
 	}
 }
-
-/*python3 run_tests.py contests/3-dfs-bfs/components.go contests/3-dfs-bfs/components_tests.zip
-Compiling with command: go build -o /tmp/tmpih40cbjd/solution_exec /home/student/dma/contests/3-dfs-bfs/components.go
-Extracted tests to /tmp/tmpih40cbjd/tests
-Test test1 PASSED
-Test test2 PASSED
-Test test3 PASSED
-Test test4 PASSED
-Test test5 PASSED
-All 5/5 tests passed!*/

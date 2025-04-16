@@ -124,12 +124,3 @@ func main() {
 	// Выводим все ребра в одной строке
 	fmt.Println(edgesStr.String())
 }
-
-/*python3 run_tests.py contests/5-ford-bellman-prim/prim.go contests/5-ford-bellman-prim/prim_tests.zip
-Compiling with command: go build -o /tmp/tmp67bypbmw/solution_exec /home/student/dma/contests/5-ford-bellman-prim/prim.go
-Extracted tests to /tmp/tmp67bypbmw/tests
-Test test1 PASSED
-Test test2 PASSED
-Test test3 PASSED
-Test test4 PASSED
-All 4/4 tests passed!*/
